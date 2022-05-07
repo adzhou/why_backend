@@ -9,8 +9,8 @@ cnpm -v
 
 
 # input your command here
-if [ ! -d "/opt/release" ]; then
-  mkdir /opt/release
+if [ ! -d "/opt/release/wohenyou" ]; then
+  mkdir /opt/release/wohenyou
 fi
 
 cnpm install
